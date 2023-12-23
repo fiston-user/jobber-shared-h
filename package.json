@@ -15,7 +15,7 @@
     "trailingComma": "es5"
   },
   "keywords": [],
-  "name": "@platnumman/jobber-shared-h",
+  "name": "@jobber/shared-h",
   "author": "PlatnumMan",
   "repository": {
     "type": "git",
