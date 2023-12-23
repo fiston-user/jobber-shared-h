@@ -1,5 +1,5 @@
 {
-  "version": "0.0.3",
+  "version": "0.0.4",
   "license": "MIT",
   "types": "./src/index.d.ts",
   "description": "Helpers library for Jobber app",
@@ -15,14 +15,14 @@
     "trailingComma": "es5"
   },
   "keywords": [],
-  "name": "@platnumman/jobber-shared-h",
-  "author": "PlatnumMan",
+  "name": "@fiston-user/jobber-shared-h",
+  "author": "fiston-user",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PlatnumMan/jobber-shared-h.git"
+    "url": "git+https://github.com/fiston-user/jobber-shared-h.git"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@PlatnumMan"
+    "registry": "https://npm.pkg.github.com/@fiston-user"
   },
   "files": [
     "build",
