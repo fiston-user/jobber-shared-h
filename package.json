@@ -22,7 +22,7 @@
     "url": "git+https://github.com/PlatnumMan/jobber-shared-h.git"
   },
   "publishConfig": {
-    "registry": "https://registry.npmjs.org"
+    "access": "public"
   },
   "files": [
     "build",
