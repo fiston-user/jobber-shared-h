@@ -15,14 +15,14 @@
     "trailingComma": "es5"
   },
   "keywords": [],
-  "name": "@platnumman/shared-h",
+  "name": "jobber-shared-h",
   "author": "PlatnumMan",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/PlatnumMan/jobber-shared-h.git"
   },
   "publishConfig": {
-    "access": "public"
+    "registry": "https://npm.pkg.github.com/@PlatnumMan"
   },
   "files": [
     "build",
